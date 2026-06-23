@@ -1,3 +1,12 @@
+"""
+Athan Nwapa-Jourdan
+
+Module 2 Lab.py: Case Study: if...else and while
+
+Takes first name, last name, and GPA as input, checks if GPA 
+qualifies for dean's list or honor roll and displays a message if it does. 
+Exits program if last name input is "ZZZ".
+"""
 
 #get student last name
 last_name = input("What is your last name? :")
